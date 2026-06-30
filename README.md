@@ -28,9 +28,9 @@ I come from a math/stats background and taught myself to build software end to e
 
 ### 📈 GitHub Stats
 
-![Jambo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamboChen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)
+![Jambo's GitHub stats](./profile/stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamboChen&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](./profile/top-langs.svg)
 
 > Much of my work lives in private repositories; my public profile is only part of the picture.
 
