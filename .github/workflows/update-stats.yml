@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=JamboChen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true
+          options: username=JamboChen&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=buefy&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
 
